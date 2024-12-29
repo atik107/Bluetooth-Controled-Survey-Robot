@@ -69,7 +69,7 @@ Connect your smartphone to the Bluetooth module on the robot car and use the app
 
 This project was a collaborative effort. Special thanks to:
 
-- [Atiqul Islam Atik](https://github.com/atik107)
+- [Md. Mainul Islam Tahim](https://github.com/tahimislam)
 
 ## Future Ideas
 
